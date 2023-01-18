@@ -95,6 +95,9 @@
         <li>
             <a href="https://github.com/hozlucas28/React-User-Manager-Practice-2023" target="_blank">Repository of user manager practice</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Interest-Calculator-Practice-2023" target="_blank">Repository of interest calculator practice</a>
+        </li>
     </ul>
 </p>
 
