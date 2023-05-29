@@ -19,12 +19,12 @@
 
 <p align="center">
     <a href="https://react-image-search-practice-2023.vercel.app/" target="_blank">
-        <img src="https://github.com/hozlucas28/React-Image-Search-Practice-2023/assets/88015479/03db237d-5856-4c58-9898-b5dbbd702c22" width="800">
+        <img src="https://github.com/hozlucas28/React-Image-Search-Practice-2023/assets/88015479/3ea5ced8-93bf-466b-9d45-756baf39c7c8" width="800">
     </a>
 </p>
 
 <p align="center">
-    <strong>(click on image to get a live test or watch a <a href="https://www.youtube.com/watch?v=fPTa3zkgD5Q" target="_blank">video preview</a>)</strong>
+    <strong>(watch a <a href="https://react-image-search-practice-2023.vercel.app/" target="_blank">live test</a> or a <a href="https://www.youtube.com/watch?v=fPTa3zkgD5Q" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
