@@ -7,7 +7,7 @@
 .subContainer {
 	display: inline-block;
 	width: 370px;
-	margin: 40px 10px 0px 10px;
+	margin: 0px 10px 40px 10px;
 	transition: box-shadow 0.2s ease;
 	background-color: var(--color-main);
 	border-radius: 5px;
@@ -48,5 +48,17 @@
 		column-count: 1;
 		width: 390px;
 		margin: auto;
+	}
+}
+
+@media (max-width: 360px) {
+	.container {
+		column-count: 1;
+		width: 300px;
+	}
+
+	.subContainer {
+		width: 100%;
+		margin: 0px 0px 40px 0px;
 	}
 }
