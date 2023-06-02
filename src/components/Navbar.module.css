@@ -46,7 +46,7 @@
 	outline: var(--color-highlight) solid 2px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
 	.container form {
 		flex-direction: column;
 		gap: 32px;
