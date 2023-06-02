@@ -53,11 +53,11 @@
 	}
 
 	.container form input[name='search'] {
-		margin-top: 16px;
+		margin: 16px 0px;
 		width: 75%;
 	}
 
 	.selectAmountOfResults {
-		margin-bottom: 16px;
+		display: none;
 	}
 }
