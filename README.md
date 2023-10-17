@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://react-image-search-practice-2023.vercel.app/" target="_blank">
-        <img src="https://github.com/hozlucas28/React-Image-Search-Practice-2023/assets/88015479/3ea5ced8-93bf-466b-9d45-756baf39c7c8" width="800">
+        <img src="./.github/preview.png" width="800">
     </a>
 </p>
 
